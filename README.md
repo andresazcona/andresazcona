@@ -7,4 +7,4 @@ at the moment I master the languages of html,javascript and css for web developm
 I am collaborating in reaply which is a project to launch several applications to the market that will make people's lives easier.
 You can communicate with me on instagram by DM @andres.azcona1 or by Twitter as @andresazcona10
 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="700" height="400" />
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="600" height="300" />
