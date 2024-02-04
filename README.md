@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Advanced Cibersecurity**
 
-- 👨‍💻 All of my projects are available at [https://andresazcona.dev](https://andresazcona.dev)
+- 👨‍💻 All of my projects are available at [https://andresazcona.dev](https://andresazcona.tech)
 
-- 📝 I regularly write articles on [https://andresazcona.dev/blog](https://andresazcona.dev/blog)
+- 📝 I regularly write articles on [https://andresazcona.dev/blog](https://andresazcona.tech/blog)
 
 - 💬 Ask me about **Flutter, Python, Web development**
 
-- 📄 Know about my experiences [https://andresazcona.dev/experiences](https://andresazcona.dev/experiences)
+- 📄 Know about my experiences [https://andresazcona.dev/experiences](https://andresazcona.tech/experiences)
 
 - ⚡ Fun fact **I believe that development is not only a tool but also an art, many do not understand that.|**
 
