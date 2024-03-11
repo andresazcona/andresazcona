@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresazcona&label=Profile%20views&color=0e75b6&style=flat" alt="andresazcona" /> </p>
 
-<p align="left"> <a href="https://twitter.com/andresazcona10" target="blank"><img src="https://img.shields.io/twitter/follow/andresazcona10?logo=twitter&style=for-the-badge" alt="andresazcona10" /></a> </p>
+<p align="left"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/andresazcona10">
+ </p>
 
 
-- 🌱 I’m currently learning **Advanced Cibersecurity**
+- 🌱 I’m currently learning in my **CDSA Certification Course**
 
 - 👨‍💻 All of my projects are available at [https://andresazcona.dev](https://andresazcona.tech)
 
-- 📝 I regularly write articles on [https://andresazcona.dev/blog](https://andresazcona.tech/blog)
-
-- 💬 Ask me about **Flutter, Python, Web development**
+- 💬 Ask me about **Flutter, Python, React.js Web development**
 
 - 📄 Know about my experiences [https://andresazcona.dev/experiences](https://andresazcona.tech/experiences)
 
