@@ -22,9 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andr%c3%a9s-azcona-86147614b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9s-azcona-86147614b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16146661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16146661" height="30" width="40" /></a>
-<a href="https://dribbble.com/andresazcona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="andresazcona" height="30" width="40" /></a>
-<a href="https://www.behance.net/andresazcona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="andresazcona" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Support:</h3>
