@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresazcona&label=Profile%20views&color=0e75b6&style=flat" alt="andresazcona" /> </p>
 
-<p align="left"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/andresazcona10">
- </p>
 
 
-- 🌱 I’m currently learning in my **CDSA Certification Course**
 
-- 👨‍💻 All of my projects are available at [https://andresazcona.dev](https://andresazcona.tech)
+- 🌱 I’m currently learning in my **CISSP Certification Course**
+
+- 👨‍💻 All of my projects are available at GitHub!!
 
 - 💬 Ask me about **Flutter, Python, React.js Web development**
-
-- 📄 Know about my experiences [https://andresazcona.dev/experiences](https://andresazcona.tech/experiences)
 
 - ⚡ Fun fact **I believe that development is not only a tool but also an art, many do not understand that.|**
 
