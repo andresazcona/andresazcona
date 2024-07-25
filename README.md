@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning in my **CISSP Certification Course**
+- 🌱 I’m currently learning in my **CompTIA Security+ Certification Course**
 
 - 👨‍💻 All of my projects are available at GitHub!!
 
