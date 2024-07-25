@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter, Python, React.js Web development**
 
-- ⚡ Fun fact **I believe that development is not only a tool but also an art, many do not understand that.|**
+- ⚡ Fun fact **I believe that development is not only a tool but also an art, many do not understand that.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
