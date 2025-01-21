@@ -1,31 +1,88 @@
 <h1 align="center">Hi 👋, I'm Andres Azcona</h1>
-<h3 align="center">A passionate Full-Stack web developer from Colombia</h3>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Technical Solution Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresazcona&label=Profile%20views&color=0e75b6&style=flat" alt="andresazcona" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andresazcona&label=Profile%20views&color=0e75b6&style=flat" alt="andresazcona" />
+</p>
 
+---
 
+### 🚀 About Me
 
+I'm a passionate Full-Stack Developer from Colombia with a deep interest in cybersecurity and innovative web solutions. Currently working as a Technical Solution Specialist at **Microsoft**, I focus on delivering tailored, cloud-based solutions that drive digital transformation. I also lead strategic growth and client satisfaction as the Co-Founder and CEO at **Nordle**.
 
-- 🌱 I’m currently learning in my **CompTIA Security+ Certification Course**
+- 🔭 **Current Roles:**
+  - Technical Solution Specialist at Microsoft
+  - Co-Founder & CEO at Nordle
 
-- 👨‍💻 All of my projects are available at GitHub!!
+- 🌱 **Learning Journey:** Currently advancing my knowledge with a **CompTIA Security+ Certification Course**.
 
-- 💬 Ask me about **Flutter, Python, React.js Web development**
+- 💬 **Let's Talk About:** Flutter, Python, React.js, and secure web development practices.
 
-- ⚡ Fun fact **I believe that development is not only a tool but also an art, many do not understand that.**
+- ⚡ **Fun Fact:** I believe development is not just a tool but also an art form that brings ideas to life.
 
-### Blogs posts
+---
+
+### 💻 Skills & Expertise
+
+#### **Technical Skills**
+- **Frontend Development:** React.js, JavaScript, WordPress
+- **Backend Development:** Node.js, Express.js
+- **Databases:** SQL, NoSQL
+- **Cybersecurity:** CompTIA Security+ (in progress), Advanced Security Practices
+
+#### **Soft Skills**
+- Leadership & Team Management
+- Multilingual Communication (English, Spanish, Portuguese)
+- Customer-Centric Problem Solving
+
+#### **Certifications**
+- Web Designer
+- Learn Responsive Design
+- Principles of Artificial Intelligence
+- Learn JavaScript
+- Learn WordPress
+
+---
+
+### 🌐 Online Presence
+
+- [LinkedIn](https://www.linkedin.com/in/andresazcona)
+- [GitHub](https://github.com/andresazcona)
+- [Stack Overflow](https://stackoverflow.com/users/16146661)
+- [Ko-Fi (Support Me)](https://ko-fi.com/andresazcona)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andresazcona&show_icons=true&locale=en" alt="andresazcona" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresazcona&" alt="andresazcona" />
+</p>
+
+---
+
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- Coming soon!
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andr%c3%a9s-azcona-86147614b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9s-azcona-86147614b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16146661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16146661" height="30" width="40" /></a>
+---
 
+### 🤝 Let's Connect
 
+<p align="center">
+<a href="https://linkedin.com/in/andresazcona" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/16146661" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+</a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/andresazcona"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="andresazcona" /></a></p><br><br>
+---
 
+### 🎨 Design Philosophy
 
+I see development as a blend of engineering and artistry, crafting robust and elegant solutions to solve complex problems while delivering exceptional user experiences.
