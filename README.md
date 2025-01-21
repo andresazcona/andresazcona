@@ -54,22 +54,6 @@ I'm a passionate Full-Stack Developer from Colombia with a deep interest in cybe
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresazcona&show_icons=true&locale=en" alt="andresazcona" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresazcona&" alt="andresazcona" />
-</p>
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon!
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
