@@ -6,8 +6,24 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=andresazcona&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge&labelColor=000000)
 
+### 🕹️ bored? play here
+
+<table>
+<tr>
+<td align="center" width="50%">
+
 [![Play Flappy Bird](assets/flappy-gameplay.gif)](https://andresazcona.github.io/flappy-bird.html)
-<br><sub>👆 real gameplay — click to actually play it</sub>
+<br><sub>FLAPPY.EXE — click to play</sub>
+
+</td>
+<td align="center" width="50%">
+
+[![Play DOOM](assets/doom-menu.png)](https://andresazcona.github.io/doom.html)
+<br><sub>DOOM.EXE — click to play</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
