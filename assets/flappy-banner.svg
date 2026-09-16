@@ -1,0 +1,52 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="60%" stop-color="#1a0836"/>
+      <stop offset="100%" stop-color="#2b0a4d"/>
+    </linearGradient>
+    <filter id="glowCyan" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowPink" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowGreen" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <rect x="2" y="2" width="896" height="216" fill="none" stroke="#00fff9" stroke-width="2" filter="url(#glowCyan)"/>
+
+  <g stroke="#00fff9" stroke-opacity="0.08">
+    <path d="M0,0 L0,220 M50,0 L50,220 M100,0 L100,220 M150,0 L150,220 M200,0 L200,220 M250,0 L250,220 M300,0 L300,220 M350,0 L350,220 M400,0 L400,220 M450,0 L450,220 M500,0 L500,220 M550,0 L550,220 M600,0 L600,220 M650,0 L650,220 M700,0 L700,220 M750,0 L750,220 M800,0 L800,220 M850,0 L850,220"/>
+    <path d="M0,0 L900,0 M0,50 L900,50 M0,100 L900,100 M0,150 L900,150 M0,200 L900,200"/>
+  </g>
+
+  <!-- pipes -->
+  <g fill="#1a0836" stroke="#ff00ea" stroke-width="3" filter="url(#glowPink)">
+    <rect x="620" y="0" width="50" height="70"/>
+    <rect x="620" y="150" width="50" height="70"/>
+    <rect x="740" y="0" width="50" height="110"/>
+    <rect x="740" y="190" width="50" height="30"/>
+  </g>
+
+  <!-- bird -->
+  <g filter="url(#glowGreen)">
+    <circle cx="140" cy="110" r="16" fill="#39ff14"/>
+    <circle cx="146" cy="104" r="3" fill="#0d0221"/>
+    <animateTransform attributeName="transform" type="translate" values="0,-6;0,6;0,-6" dur="1.6s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="450" y="38" text-anchor="middle" font-family="Courier New, monospace" font-size="22" font-weight="bold" fill="#00fff9" filter="url(#glowCyan)">FLAPPY.EXE</text>
+
+  <text x="450" y="185" text-anchor="middle" font-family="Courier New, monospace" font-size="20" font-weight="bold" fill="#ff00ea" filter="url(#glowPink)">
+    ▶ CLICK TO PLAY
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="205" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#39ff14">opens in a new tab — andresazcona.github.io</text>
+</svg>
