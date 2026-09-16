@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=andresazcona&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge&labelColor=000000)
 
-[![Play Flappy Bird](https://img.shields.io/badge/🕹️_PLAY_FLAPPY.EXE-000000?style=for-the-badge&color=ff00ea&labelColor=000000)](https://andresazcona.github.io/flappy-bird.html)
+[![Play Flappy Bird](assets/flappy-banner.svg)](https://andresazcona.github.io/flappy-bird.html)
 
 </div>
 
