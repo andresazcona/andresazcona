@@ -6,7 +6,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=andresazcona&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge&labelColor=000000)
 
-[![Play Flappy Bird](assets/flappy-banner.svg)](https://andresazcona.github.io/flappy-bird.html)
+[![Play Flappy Bird](assets/flappy-gameplay.gif)](https://andresazcona.github.io/flappy-bird.html)
+<br><sub>👆 real gameplay — click to actually play it</sub>
 
 </div>
 
