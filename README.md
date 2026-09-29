@@ -8,22 +8,8 @@
 
 ### 🕹️ bored? play here
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-[![Play Flappy Bird](assets/flappy-gameplay.gif)](https://andresazcona.github.io/flappy-bird.html)
-<br><sub>FLAPPY.EXE — click to play</sub>
-
-</td>
-<td align="center" width="50%">
-
-[![Play DOOM](assets/doom-menu.png)](https://andresazcona.github.io/doom.html)
+[![Play DOOM](assets/doom-experience.jpg)](https://andresazcona.github.io/doom.html)
 <br><sub>DOOM.EXE — click to play</sub>
-
-</td>
-</tr>
-</table>
 
 </div>
 
