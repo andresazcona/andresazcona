@@ -8,8 +8,8 @@
 
 ### 🕹️ bored? play here
 
-[![Play DOOM](assets/doom-experience.jpg)](https://andresazcona.github.io/doom.html)
-<br><sub>DOOM.EXE — click to play</sub>
+[![Play retro games](assets/retro-desktop.jpg)](https://andresazcona.github.io/)
+<br><sub>RETRO.EXE — 12 retro games on a late-night desk, click to play</sub>
 
 </div>
 
