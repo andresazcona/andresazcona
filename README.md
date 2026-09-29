@@ -9,7 +9,7 @@
 ### 🕹️ bored? play here
 
 [![Play retro games](assets/retro-desktop.jpg)](https://andresazcona.github.io/)
-<br><sub>RETRO.EXE — 10 retro games on a late-night desk, click to play</sub>
+<br><sub>RETRO.EXE — 15 retro games on a late-night desk, click to play</sub>
 
 </div>
 
