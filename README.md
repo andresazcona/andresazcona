@@ -1,99 +1,81 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00fff9&height=200&section=header&text=ANDRES%20AZCONA&fontSize=48&fontColor=39FF14&fontAlignY=35&desc=CLOUD%20%26%20INFRASTRUCTURE%20ARCHITECT&descAlignY=55&descColor=00FFF9&animation=fadeIn)
+<img src="assets/header.svg" width="100%" alt="ANDRES AZCONA — Software Architect // Cloud & Infrastructure // Robotics" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Building+resilient+cloud+%26+infra+systems;AWS+%7C+Docker+%7C+Linux+%7C+Kiosk%2FEmbedded;Architecture+%3E+hype)](https://git.io/typing-svg)
+<img src="assets/terminal.svg" width="88%" alt="guest@andresazcona:~$ whoami — software architect, cloud & infrastructure, robotics" />
 
-![Profile views](https://komarev.com/ghpvc/?username=andresazcona&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge&labelColor=000000)
+<br><br>
 
-### 🕹️ bored? play here
-
-[![Play retro games](assets/retro-desktop.jpg)](https://andresazcona.github.io/)
-<br><sub>RETRO.EXE — 15 retro games on a late-night desk, click to play</sub>
+<img src="https://komarev.com/ghpvc/?username=andresazcona&label=PLAYERS%20SO%20FAR&color=ff3b1f&style=for-the-badge&labelColor=0d0221" alt="profile views" />
 
 </div>
 
 <br>
 
-```bash
-guest@andresazcona:~$ whoami
-> Andres Azcona — Software Architect focused on Cloud & Infrastructure
-> Building resilient, reproducible systems: DevOps, embedded & backend
-> Stack: AWS · Docker · Linux · CI/CD · Node.js · Python · TypeScript
-> Philosophy: boring, reproducible infra beats clever, fragile infra
-```
-
-<br>
+<img src="assets/h-arcade.svg" width="100%" alt="INSERT COIN" />
 
 <div align="center">
 
-### ⚡ STACK
+<a href="https://andresazcona.github.io/"><img src="assets/retro.gif" width="88%" alt="RETRO.EXE — click to play" /></a>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nodejs,ts,js,python,postgres,nginx,react,git,github,bash,vscode&theme=dark" />
+<sub><b>click to boot OS 97</b> · DOOM · Wolfenstein 3D · Heretic · Commander Keen · Jumpy Kart 64 · HexGL · +9 more</sub>
 
 </div>
 
 <br>
 
-## 🛰️ FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-**[🌐 IP-Tracker](https://github.com/andresazcona/IP-Tracker)**
-Sistema de monitoreo y gestión de dispositivos IP con auth JWT, roles, tracking en tiempo real y arquitectura Docker — pensado para Raspberry Pi / IoT.
-`JavaScript` `Docker` `JWT` `IoT`
-
-</td>
-<td width="50%">
-
-**[🏗️ architecture-comparison](https://github.com/andresazcona/architecture-comparison)**
-Estudio comparativo monolito vs microservicios sobre un e-commerce, con pruebas de carga en k6 midiendo throughput, latencia y resiliencia.
-`Node.js` `k6` `Microservices`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[🩺 HealthLeap](https://github.com/andresazcona/HealthLeap-MONOLITH)**
-API REST para gestión médica (citas, médicos, pacientes). Node.js + Express + TypeScript + PostgreSQL, con JWT, Docker y CI/CD automatizado.
-`TypeScript` `PostgreSQL` `CI/CD`
-
-</td>
-<td width="50%">
-
-**[🗄️ SQLhelper](https://github.com/andresazcona/SQLhelper)**
-Parser de DDL SQL que genera diagramas entidad-relación en Mermaid a partir de MySQL, PostgreSQL, SQLite, SQL Server u Oracle.
-`TypeScript` `Full-stack`
-
-</td>
-</tr>
-</table>
-
-<br>
+<img src="assets/h-stack.svg" width="100%" alt="LOADOUT" />
 
 <div align="center">
 
-### 📡 GITHUB STATS
+<sub>INFRA</sub><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx,bash,git&theme=dark" alt="AWS, Docker, Linux, GitHub Actions, Nginx, Bash, Git" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andresazcona&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFF9&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresazcona&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+<sub>CODE</sub><br>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,java,postgres,react&theme=dark" alt="Node.js, TypeScript, JavaScript, Python, Java, PostgreSQL, React" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andresazcona&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=00FFF9&currStreakLabel=39FF14" />
+<sub>HARDWARE</sub><br>
+<img src="https://skillicons.dev/icons?i=ros,raspberrypi&theme=dark" alt="ROS, Raspberry Pi" />
 
 </div>
 
 <br>
 
+<img src="assets/h-carts.svg" width="100%" alt="CARTRIDGES" />
+
 <div align="center">
 
-### 🔗 CONNECT
+<a href="https://github.com/andresazcona/RCUP-RescueBot"><img src="assets/cart-rescuebot.svg" width="49%" alt="RCUP-RescueBot" /></a>
+<a href="https://github.com/andresazcona/PedROS-ControlPanel"><img src="assets/cart-pedros.svg" width="49%" alt="PedROS Control Panel" /></a>
+<a href="https://github.com/andresazcona/IP-Tracker"><img src="assets/cart-iptracker.svg" width="49%" alt="IP-Tracker" /></a>
+<a href="https://github.com/andresazcona/SQLhelper"><img src="assets/cart-sqlhelper.svg" width="49%" alt="SQLhelper" /></a>
+<a href="https://github.com/andresazcona/architecture-comparison"><img src="assets/cart-arch.svg" width="49%" alt="architecture-comparison" /></a>
+<a href="https://github.com/andresazcona/geoflux_sorter_project"><img src="assets/cart-geoflux.svg" width="49%" alt="GeoFlux Sort" /></a>
 
-<a href="https://github.com/andresazcona" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
-<a href="https://linkedin.com/in/andresazcona" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFF9" /></a>
+</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00fff9,50:302b63,100:0f0c29&height=100&section=footer)
+<br>
+
+<img src="assets/h-scores.svg" width="100%" alt="HIGH SCORES" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andresazcona/andresazcona/output/snake.svg" width="100%" alt="contribution snake" />
+
+<img src="https://streak-stats.demolab.com/?user=andresazcona&background=0d0221&border=ff5fb0&stroke=7b2cbf&ring=ff3b1f&fire=ffb35c&currStreakNum=ffe7a8&sideNums=ffe7a8&currStreakLabel=00d9d0&sideLabels=00d9d0&dates=8a7aa8" alt="contribution streak" />
+
+</div>
+
+<br>
+
+<img src="assets/h-contact.svg" width="100%" alt="PLAYER 2 READY?" />
+
+<div align="center">
+
+<a href="https://linkedin.com/in/andresazcona"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00d9d0" alt="LinkedIn" /></a>
+<a href="https://github.com/andresazcona?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-0d0221?style=for-the-badge&logo=github&logoColor=ffb35c" alt="Repositories" /></a>
+<a href="https://andresazcona.github.io/"><img src="https://img.shields.io/badge/PLAY%20RETRO.EXE-0d0221?style=for-the-badge&logo=gamejolt&logoColor=ff5fb0" alt="Play RETRO.EXE" /></a>
+
+<img src="assets/footer.svg" width="100%" alt="THANKS FOR PLAYING" />
 
 </div>
