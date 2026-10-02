@@ -12,18 +12,6 @@
 
 <br>
 
-<img src="assets/h-arcade.svg" width="100%" alt="INSERT COIN" />
-
-<div align="center">
-
-<a href="https://andresazcona.github.io/"><img src="assets/retro.gif" width="88%" alt="RETRO.EXE — click to play" /></a>
-
-<sub><b>click to boot OS 97</b> · DOOM · Wolfenstein 3D · Heretic · Commander Keen · Jumpy Kart 64 · HexGL · +9 more</sub>
-
-</div>
-
-<br>
-
 <img src="assets/h-stack.svg" width="100%" alt="LOADOUT" />
 
 <div align="center">
@@ -74,8 +62,7 @@
 
 <a href="https://linkedin.com/in/andresazcona"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00d9d0" alt="LinkedIn" /></a>
 <a href="https://github.com/andresazcona?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-0d0221?style=for-the-badge&logo=github&logoColor=ffb35c" alt="Repositories" /></a>
-<a href="https://andresazcona.github.io/"><img src="https://img.shields.io/badge/PLAY%20RETRO.EXE-0d0221?style=for-the-badge&logo=gamejolt&logoColor=ff5fb0" alt="Play RETRO.EXE" /></a>
 
-<img src="assets/footer.svg" width="100%" alt="THANKS FOR PLAYING" />
+<a href="https://andresazcona.github.io/" title="???"><img src="assets/footer.svg" width="100%" alt="SECRET LEVEL — insert coin" /></a>
 
 </div>
