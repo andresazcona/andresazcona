@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="ANDRES AZCONA — Software Architect // Cloud & Infrastructure // Robotics" />
+<img src="assets/header.svg" width="100%" alt="ANDRES AZCONA — Software Architect // Cloud & Infrastructure // DevOps" />
 
-<img src="assets/terminal.svg" width="88%" alt="guest@andresazcona:~$ whoami — software architect, cloud & infrastructure, robotics" />
+<img src="assets/terminal.svg" width="88%" alt="guest@andresazcona:~$ whoami — software architect, cloud & infrastructure" />
 
 <br><br>
 
@@ -22,8 +22,6 @@
 <sub>CODE</sub><br>
 <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,java,postgres,react&theme=dark" alt="Node.js, TypeScript, JavaScript, Python, Java, PostgreSQL, React" />
 
-<sub>HARDWARE</sub><br>
-<img src="https://skillicons.dev/icons?i=ros,raspberrypi&theme=dark" alt="ROS, Raspberry Pi" />
 
 </div>
 
@@ -33,12 +31,12 @@
 
 <div align="center">
 
-<a href="https://github.com/andresazcona/RCUP-RescueBot"><img src="assets/cart-rescuebot.svg" width="49%" alt="RCUP-RescueBot" /></a>
-<a href="https://github.com/andresazcona/PedROS-ControlPanel"><img src="assets/cart-pedros.svg" width="49%" alt="PedROS Control Panel" /></a>
-<a href="https://github.com/andresazcona/IP-Tracker"><img src="assets/cart-iptracker.svg" width="49%" alt="IP-Tracker" /></a>
-<a href="https://github.com/andresazcona/SQLhelper"><img src="assets/cart-sqlhelper.svg" width="49%" alt="SQLhelper" /></a>
 <a href="https://github.com/andresazcona/architecture-comparison"><img src="assets/cart-arch.svg" width="49%" alt="architecture-comparison" /></a>
+<a href="https://github.com/andresazcona/Nordle-PDF-API"><img src="assets/cart-nordle.svg" width="49%" alt="Nordle PDF API" /></a>
+<a href="https://github.com/andresazcona/SQLhelper"><img src="assets/cart-sqlhelper.svg" width="49%" alt="SQLhelper" /></a>
+<a href="https://github.com/andresazcona/IP-Tracker"><img src="assets/cart-iptracker.svg" width="49%" alt="IP-Tracker" /></a>
 <a href="https://github.com/andresazcona/geoflux_sorter_project"><img src="assets/cart-geoflux.svg" width="49%" alt="GeoFlux Sort" /></a>
+<a href="https://andresazcona.github.io/nordmar-kitchens/"><img src="assets/cart-nordmar.svg" width="49%" alt="Nordmar Kitchens (live demo)" /></a>
 
 </div>
 
