@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg?v=8" width="100%" alt="ANDRES AZCONA — Software Architect & Engineer // Cloud & Infrastructure // DevOps" />
 
-<img src="assets/terminal.svg?v=8" width="88%" alt="guest@andresazcona:~$ whoami — software architect & engineer, cloud & infrastructure" />
+<img src="assets/terminal.svg?v=9" width="88%" alt="guest@andresazcona:~$ whoami — Hi, I am Andres. I design and build software, from sketch to production." />
 
 </div>
 
