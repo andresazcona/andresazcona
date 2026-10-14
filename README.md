@@ -69,6 +69,8 @@
 
 <div align="center">
 
+<a href="https://github.com/andresazcona/Docuify"><img src="assets/cart-docuify.svg" width="49%" alt="Docuify" /></a>
+<a href="https://github.com/andresazcona/Lumo"><img src="assets/cart-lumo.svg" width="49%" alt="Lumo" /></a>
 <a href="https://github.com/andresazcona/architecture-comparison"><img src="assets/cart-arch.svg" width="49%" alt="architecture-comparison" /></a>
 <a href="https://github.com/andresazcona/SQLhelper"><img src="assets/cart-sqlhelper.svg" width="49%" alt="SQLhelper" /></a>
 <a href="https://github.com/andresazcona/IP-Tracker"><img src="assets/cart-iptracker.svg" width="49%" alt="IP-Tracker" /></a>
