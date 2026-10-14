@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/header.svg?v=6" width="100%" alt="ANDRES AZCONA — Software Architect & Engineer // Cloud & Infrastructure // DevOps" />
+<img src="assets/header.svg?v=8" width="100%" alt="ANDRES AZCONA — Software Architect & Engineer // Cloud & Infrastructure // DevOps" />
 
-<img src="assets/terminal.svg?v=6" width="88%" alt="guest@andresazcona:~$ whoami — software architect & engineer, cloud & infrastructure" />
+<img src="assets/terminal.svg?v=8" width="88%" alt="guest@andresazcona:~$ whoami — software architect & engineer, cloud & infrastructure" />
 
 </div>
 
 <br>
 
-<img src="assets/h-stack.svg?v=4" width="100%" alt="LOADOUT" />
+<img src="assets/h-stack.svg?v=8" width="100%" alt="LOADOUT" />
 
 <div align="center">
 
@@ -25,13 +25,16 @@
 <img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry&theme=dark&perline=14" alt="OBSERVABILITY: grafana, prometheus, sentry" />
 
 <sub><b>BACKEND</b></sub><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi,prisma&theme=dark&perline=14" alt="BACKEND: nodejs, express, spring, django, fastapi, prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi,prisma,graphql&theme=dark&perline=14" alt="BACKEND: nodejs, express, spring, django, fastapi, prisma, graphql" />
 
 <sub><b>DATA & MESSAGING</b></sub><br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,rabbitmq&theme=dark&perline=14" alt="DATA & MESSAGING: postgres, mysql, mongodb, redis, sqlite, rabbitmq" />
 
 <sub><b>FRONTEND</b></sub><br>
 <img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,materialui,threejs&theme=dark&perline=14" alt="FRONTEND: react, vue, vite, tailwind, materialui, threejs" />
+
+<sub><b>QA & TESTING</b></sub><br>
+<img src="https://skillicons.dev/icons?i=selenium,jest,vitest,postman&theme=dark&perline=14" alt="QA & TESTING: selenium, jest, vitest, postman" />
 
 <sub><b>MOBILE & HARDWARE</b></sub><br>
 <img src="https://skillicons.dev/icons?i=androidstudio,raspberrypi,arduino,ros&theme=dark&perline=14" alt="MOBILE & HARDWARE: androidstudio, raspberrypi, arduino, ros" />
@@ -41,13 +44,13 @@
 
 <br>
 
-<img src="assets/stack-more.svg?v=5" width="88%" alt="Also: AWS services, Azure, GCP, Microsoft 365 and Google Workspace, security, IT infrastructure (Proxmox, ZFS, UniFi, Windows Server), helpdesk, data tooling and platforms" />
+<img src="assets/stack-more.svg?v=8" width="88%" alt="Also: AWS services, Azure, GCP, Microsoft 365 and Google Workspace, security, IT infrastructure (Proxmox, ZFS, UniFi, Windows Server), helpdesk, data tooling and platforms" />
 
 </div>
 
 <br>
 
-<img src="assets/h-carts.svg?v=4" width="100%" alt="CLOUD & PLATFORM" />
+<img src="assets/h-carts.svg?v=8" width="100%" alt="CLOUD & PLATFORM" />
 
 <div align="center">
 
@@ -62,7 +65,7 @@
 
 <br>
 
-<img src="assets/h-apps.svg?v=4" width="100%" alt="APPS & EXPERIMENTS" />
+<img src="assets/h-apps.svg?v=8" width="100%" alt="APPS & EXPERIMENTS" />
 
 <div align="center">
 
@@ -96,6 +99,6 @@
 <a href="https://linkedin.com/in/andresazcona"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00d9d0" alt="LinkedIn" /></a>
 <a href="https://github.com/andresazcona?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-0d0221?style=for-the-badge&logo=github&logoColor=ffb35c" alt="Repositories" /></a>
 
-<a href="https://andresazcona.github.io/" title="???"><img src="assets/footer.svg?v=4" width="100%" alt="SECRET LEVEL — insert coin" /></a>
+<a href="https://andresazcona.github.io/" title="???"><img src="assets/footer.svg?v=8" width="100%" alt="SECRET LEVEL — insert coin" /></a>
 
 </div>
