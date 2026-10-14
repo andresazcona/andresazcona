@@ -16,25 +16,64 @@
 
 <div align="center">
 
-<sub>INFRA</sub><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx,bash,git&theme=dark" alt="AWS, Docker, Linux, GitHub Actions, Nginx, Bash, Git" />
+<sub><b>LANGUAGES</b></sub><br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,kotlin,cpp,rust,bash,powershell,html,css&theme=dark&perline=14" alt="LANGUAGES: js, ts, python, java, php, kotlin, cpp, rust, bash, powershell, html, css" />
 
-<sub>CODE</sub><br>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,java,postgres,react&theme=dark" alt="Node.js, TypeScript, JavaScript, Python, Java, PostgreSQL, React" />
+<sub><b>CLOUD & EDGE</b></sub><br>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,firebase,supabase&theme=dark&perline=14" alt="CLOUD & EDGE: aws, cloudflare, vercel, firebase, supabase" />
 
+<sub><b>INFRA & DEVOPS</b></sub><br>
+<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,githubactions,linux,ubuntu,debian,nginx&theme=dark&perline=14" alt="INFRA & DEVOPS: terraform, docker, kubernetes, githubactions, linux, ubuntu, debian, nginx" />
+
+<sub><b>OBSERVABILITY</b></sub><br>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry&theme=dark&perline=14" alt="OBSERVABILITY: grafana, prometheus, sentry" />
+
+<sub><b>BACKEND</b></sub><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi,prisma&theme=dark&perline=14" alt="BACKEND: nodejs, express, spring, django, fastapi, prisma" />
+
+<sub><b>DATA & MESSAGING</b></sub><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,rabbitmq&theme=dark&perline=14" alt="DATA & MESSAGING: postgres, mysql, mongodb, redis, sqlite, rabbitmq" />
+
+<sub><b>FRONTEND</b></sub><br>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,threejs&theme=dark&perline=14" alt="FRONTEND: react, vite, tailwind, materialui, threejs" />
+
+<sub><b>MOBILE & HARDWARE</b></sub><br>
+<img src="https://skillicons.dev/icons?i=androidstudio,raspberrypi,arduino,ros&theme=dark&perline=14" alt="MOBILE & HARDWARE: androidstudio, raspberrypi, arduino, ros" />
+
+<sub><b>WORKFLOW</b></sub><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,obsidian&theme=dark&perline=14" alt="WORKFLOW: git, github, vscode, postman, obsidian" />
+
+<br>
+
+<img src="assets/stack-more.svg" width="88%" alt="Also: AWS services, security, networking, data tooling, platforms and field hardware" />
 
 </div>
 
 <br>
 
-<img src="assets/h-carts.svg" width="100%" alt="CARTRIDGES" />
+<img src="assets/h-carts.svg" width="100%" alt="CLOUD & PLATFORM" />
+
+<div align="center">
+
+<a href="https://github.com/andresazcona/aws-landing-zone"><img src="assets/cart-landingzone.svg" width="49%" alt="AWS Landing Zone" /></a>
+<a href="https://github.com/andresazcona/k8s-gitops-platform"><img src="assets/cart-k8s.svg" width="49%" alt="K8s GitOps Platform" /></a>
+<a href="https://github.com/andresazcona/sqlhelper-platform"><img src="assets/cart-sqlplatform.svg" width="49%" alt="SQLhelper Platform" /></a>
+<a href="https://github.com/andresazcona/flatpdf"><img src="assets/cart-flatpdf.svg" width="49%" alt="flatpdf" /></a>
+<a href="https://github.com/andresazcona/cost-sentinel"><img src="assets/cart-sentinel.svg" width="49%" alt="cost-sentinel" /></a>
+<a href="https://github.com/andresazcona/system-design-casebook"><img src="assets/cart-casebook.svg" width="49%" alt="System Design Casebook" /></a>
+
+</div>
+
+<br>
+
+<img src="assets/h-apps.svg" width="100%" alt="APPS & EXPERIMENTS" />
 
 <div align="center">
 
 <a href="https://github.com/andresazcona/architecture-comparison"><img src="assets/cart-arch.svg" width="49%" alt="architecture-comparison" /></a>
-<a href="https://github.com/andresazcona/Nordle-PDF-API"><img src="assets/cart-nordle.svg" width="49%" alt="Nordle PDF API" /></a>
 <a href="https://github.com/andresazcona/SQLhelper"><img src="assets/cart-sqlhelper.svg" width="49%" alt="SQLhelper" /></a>
 <a href="https://github.com/andresazcona/IP-Tracker"><img src="assets/cart-iptracker.svg" width="49%" alt="IP-Tracker" /></a>
+<a href="https://github.com/andresazcona/NumConvert"><img src="assets/cart-numconvert.svg" width="49%" alt="NumConvert" /></a>
 <a href="https://github.com/andresazcona/geoflux_sorter_project"><img src="assets/cart-geoflux.svg" width="49%" alt="GeoFlux Sort" /></a>
 <a href="https://andresazcona.github.io/nordmar-kitchens/"><img src="assets/cart-nordmar.svg" width="49%" alt="Nordmar Kitchens (live demo)" /></a>
 
