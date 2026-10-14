@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="ANDRES AZCONA — Software Architect // Cloud & Infrastructure // DevOps" />
+<img src="assets/header.svg?v=4" width="100%" alt="ANDRES AZCONA — Software Engineer & Architect // Cloud & Infrastructure // DevOps" />
 
-<img src="assets/terminal.svg" width="88%" alt="guest@andresazcona:~$ whoami — software architect, cloud & infrastructure" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=andresazcona&label=PLAYERS%20SO%20FAR&color=ff3b1f&style=for-the-badge&labelColor=0d0221" alt="profile views" />
+<img src="assets/terminal.svg?v=4" width="88%" alt="guest@andresazcona:~$ whoami — software engineer & architect, cloud & infrastructure" />
 
 </div>
 
 <br>
 
-<img src="assets/h-stack.svg" width="100%" alt="LOADOUT" />
+<img src="assets/h-stack.svg?v=4" width="100%" alt="LOADOUT" />
 
 <div align="center">
 
 <sub><b>LANGUAGES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,kotlin,cpp,rust,bash,powershell,html,css&theme=dark&perline=14" alt="LANGUAGES: js, ts, python, java, php, kotlin, cpp, rust, bash, powershell, html, css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,cs,php,kotlin,cpp,rust,bash,powershell,html,css&theme=dark&perline=14" alt="LANGUAGES: js, ts, python, java, go, cs, php, kotlin, cpp, rust, bash, powershell, html, css" />
 
 <sub><b>CLOUD & EDGE</b></sub><br>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,firebase,supabase&theme=dark&perline=14" alt="CLOUD & EDGE: aws, cloudflare, vercel, firebase, supabase" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,firebase,supabase&theme=dark&perline=14" alt="CLOUD & EDGE: aws, azure, gcp, cloudflare, vercel, firebase, supabase" />
 
 <sub><b>INFRA & DEVOPS</b></sub><br>
 <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,githubactions,linux,ubuntu,debian,nginx&theme=dark&perline=14" alt="INFRA & DEVOPS: terraform, docker, kubernetes, githubactions, linux, ubuntu, debian, nginx" />
@@ -35,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,rabbitmq&theme=dark&perline=14" alt="DATA & MESSAGING: postgres, mysql, mongodb, redis, sqlite, rabbitmq" />
 
 <sub><b>FRONTEND</b></sub><br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,threejs&theme=dark&perline=14" alt="FRONTEND: react, vite, tailwind, materialui, threejs" />
+<img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,materialui,threejs&theme=dark&perline=14" alt="FRONTEND: react, vue, vite, tailwind, materialui, threejs" />
 
 <sub><b>MOBILE & HARDWARE</b></sub><br>
 <img src="https://skillicons.dev/icons?i=androidstudio,raspberrypi,arduino,ros&theme=dark&perline=14" alt="MOBILE & HARDWARE: androidstudio, raspberrypi, arduino, ros" />
@@ -45,13 +41,13 @@
 
 <br>
 
-<img src="assets/stack-more.svg" width="88%" alt="Also: AWS services, security, networking, data tooling, platforms and field hardware" />
+<img src="assets/stack-more.svg?v=4" width="88%" alt="Also: AWS services, security, networking, data tooling, platforms and field hardware" />
 
 </div>
 
 <br>
 
-<img src="assets/h-carts.svg" width="100%" alt="CLOUD & PLATFORM" />
+<img src="assets/h-carts.svg?v=4" width="100%" alt="CLOUD & PLATFORM" />
 
 <div align="center">
 
@@ -66,7 +62,7 @@
 
 <br>
 
-<img src="assets/h-apps.svg" width="100%" alt="APPS & EXPERIMENTS" />
+<img src="assets/h-apps.svg?v=4" width="100%" alt="APPS & EXPERIMENTS" />
 
 <div align="center">
 
@@ -100,6 +96,6 @@
 <a href="https://linkedin.com/in/andresazcona"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00d9d0" alt="LinkedIn" /></a>
 <a href="https://github.com/andresazcona?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-0d0221?style=for-the-badge&logo=github&logoColor=ffb35c" alt="Repositories" /></a>
 
-<a href="https://andresazcona.github.io/" title="???"><img src="assets/footer.svg" width="100%" alt="SECRET LEVEL — insert coin" /></a>
+<a href="https://andresazcona.github.io/" title="???"><img src="assets/footer.svg?v=4" width="100%" alt="SECRET LEVEL — insert coin" /></a>
 
 </div>
