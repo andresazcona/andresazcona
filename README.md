@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg?v=4" width="100%" alt="ANDRES AZCONA — Software Engineer & Architect // Cloud & Infrastructure // DevOps" />
+<img src="assets/header.svg?v=6" width="100%" alt="ANDRES AZCONA — Software Architect & Engineer // Cloud & Infrastructure // DevOps" />
 
-<img src="assets/terminal.svg?v=4" width="88%" alt="guest@andresazcona:~$ whoami — software engineer & architect, cloud & infrastructure" />
+<img src="assets/terminal.svg?v=6" width="88%" alt="guest@andresazcona:~$ whoami — software architect & engineer, cloud & infrastructure" />
 
 </div>
 
