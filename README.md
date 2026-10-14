@@ -41,7 +41,7 @@
 
 <br>
 
-<img src="assets/stack-more.svg?v=4" width="88%" alt="Also: AWS services, security, networking, data tooling, platforms and field hardware" />
+<img src="assets/stack-more.svg?v=5" width="88%" alt="Also: AWS services, Azure, GCP, Microsoft 365 and Google Workspace, security, IT infrastructure (Proxmox, ZFS, UniFi, Windows Server), helpdesk, data tooling and platforms" />
 
 </div>
 
