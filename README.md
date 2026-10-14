@@ -98,10 +98,11 @@
 
 <div align="center">
 
+<a href="https://andresazcona.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=googlechrome&logoColor=ff3b1f" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/andresazcona"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00d9d0" alt="LinkedIn" /></a>
 <a href="https://andresazcona.github.io/cv/"><img src="https://img.shields.io/badge/CV%20%2F%20RESUME-0d0221?style=for-the-badge&logo=readdotcv&logoColor=ff5fb0" alt="CV" /></a>
 <a href="https://github.com/andresazcona?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-0d0221?style=for-the-badge&logo=github&logoColor=ffb35c" alt="Repositories" /></a>
 
-<a href="https://andresazcona.github.io/" title="???"><img src="assets/footer.svg?v=8" width="100%" alt="SECRET LEVEL — insert coin" /></a>
+<a href="https://andresazcona.github.io/retro/" title="???"><img src="assets/footer.svg?v=8" width="100%" alt="SECRET LEVEL — insert coin" /></a>
 
 </div>
